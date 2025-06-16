@@ -7,7 +7,7 @@ This is where I solve and track problems from the sheet with clean C++ code, exp
 
 ## 🔗 Sheet Reference
 
-👉 [Striver A2Z DSA Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+👉 [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 ---
 
@@ -16,7 +16,8 @@ This is where I solve and track problems from the sheet with clean C++ code, exp
 | Category              | Progress       |
 |-----------------------|----------------|
 | Basics                | ✅ Completed    |
-| Recursion             | ⏳ In Progress  |
+| Basics                | ⏳ In Progress   |
+| Recursion             | 🔜 Next   |
 | Searching & Sorting   | 🔜 Next         |
 | DP                    | 🕒 Planned      |
 | Graphs                | 🕒 Planned      |
@@ -45,7 +46,7 @@ This repo is mostly for personal learning, but:
 
 ## 📈 My Goals
 
-- 📚 Master DSA before internships  
+- 📚 Master DSA with Deep understandings  
 - 🔁 Revise with spaced repetition  
 - 🧪 Improve problem-solving patterns and thinking  
 
@@ -53,7 +54,7 @@ This repo is mostly for personal learning, but:
 
 ## 📌 Notes
 
-- All problems are referenced from the original [Striver Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/).  
+- All problems are referenced from the original [Striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2).  
 - This is an **ongoing project** — new problems are added weekly.  
 - Code is written with clean structure and comments for revision.
 
