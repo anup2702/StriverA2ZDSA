@@ -28,3 +28,47 @@ StriverA2ZDSA/
 ├── 02_Basics_of_Recursion/
 ├── ...
 ├── README.md
+
+
+🧠 How I'm Solving It
+Category	Progress
+Basics	✅ Completed
+Recursion	⏳ In Progress
+Searching & Sorting	🔜 Next
+DP	🕒 Planned
+Graphs	🕒 Planned
+
+I’m solving 10–12 problems per topic for deep understanding, not just completion.
+
+🧰 Tech Stack
+Language: C++
+
+IDE: VS Code
+
+Version Control: Git
+
+Platform: GitHub
+
+🔄 How to Contribute
+This repo is mostly for personal learning, but:
+
+Feel free to ⭐ the repo if you're on the same journey
+
+Open issues/suggestions to improve structure or logic
+
+📈 My Goals
+📚 Master DSA before internships
+
+🔁 Revise with spaced repetition
+
+🧪 Improve problem-solving patterns
+
+📌 Notes
+All problems are referenced from the original sheet.
+
+This is an ongoing project. More problems are added weekly!
+
+📩 Connect
+🔗 LinkedIn
+
+🐦 Twitter/X (DSA logs & tips)
