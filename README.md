@@ -16,11 +16,16 @@ This is where I solve and track problems from the sheet with clean C++ code, exp
 | Category              | Progress       |
 |-----------------------|----------------|
 | Basics                | ✅ Completed    |
-| Basics                | ⏳ In Progress   |
+| Searching & Sorting   | ✅ Completed   |
+| Array                | ⏳ In Progress   |
+| Binary Seach                | 🔜 Next   |
+| String                | ⏳ In Progress   |
 | Recursion             | 🔜 Next   |
-| Searching & Sorting   | 🔜 Next         |
+| Linked List                | ⏳ In Progress   |
+| Bit Mainipulation                | ⏳ In Progress   |
+| Binary Search Tree                | ⏳ In Progress   |
 | DP                    | 🕒 Planned      |
-| Graphs                | 🕒 Planned      |
+| Graphs                | 🔜 Next    |
 
 > I’m solving **10–12 problems per topic** for deep understanding, not just completion.
 
