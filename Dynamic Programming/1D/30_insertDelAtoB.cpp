@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int longestCommonSubsequence(string s1, string s2) {
+    int minDistance(string s1, string s2) {
         int n = s1.size(), m = s2.size();
         int dp[n+1][m+1];
         
@@ -11,9 +11,6 @@ public:
                 else dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
             }
         }
-        return dp[n][m];
+        return n+m-dp[n][m]*2;
     }
 };
-
-
-
