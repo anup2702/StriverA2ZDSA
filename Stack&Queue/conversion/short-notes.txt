@@ -1,0 +1,84 @@
+
+---
+
+# 1️⃣ Operator Precedence & Associativity
+
+Conversions always respect:
+
+| Operator | Precedence | Associativity |
+| -------- | ---------- | ------------- |
+| `^`      | 3          | Right         |
+| `* /`    | 2          | Left          |
+| `+ -`    | 1          | Left          |
+| `()`     | special    | n/a           |
+
+* **Precedence** decides which operator is applied first.
+* **Associativity** decides order if two operators of same precedence appear:
+
+  * Left-associative → evaluate left to right (`+ - * /`)
+  * Right-associative → evaluate right to left (`^`)
+
+---
+
+# 2️⃣ Conversion Rules (Stack-Based)
+
+## A) Infix → Postfix
+
+1. Operand → output directly.
+2. Operator → pop from stack all operators with **higher or equal precedence** and push the current operator.
+3. `(` → push to stack.
+4. `)` → pop from stack until `(`.
+5. After scanning, pop remaining operators from stack to output.
+
+---
+
+## B) Infix → Prefix
+
+1. Reverse the infix expression. Swap `(` and `)`.
+2. Apply **Infix → Postfix** rules on the reversed expression.
+3. Reverse the result → Prefix.
+
+---
+
+## C) Postfix → Infix
+
+1. Scan **left to right**.
+2. Operand → push to stack.
+3. Operator → pop **two operands**, combine as `(operand1 operator operand2)`, push back.
+4. Stack top → final infix.
+
+---
+
+## D) Prefix → Infix
+
+1. Scan **right to left**.
+2. Operand → push to stack.
+3. Operator → pop **two operands**, combine as `(operand1 operator operand2)`, push back.
+4. Stack top → final infix.
+
+---
+
+## E) Postfix ↔ Prefix
+
+* **Postfix → Prefix**:
+
+  1. Scan **left to right**.
+  2. Operand → push to stack.
+  3. Operator → pop two operands, combine `operator + operand1 + operand2`, push back.
+
+* **Prefix → Postfix**:
+
+  1. Scan **right to left**.
+  2. Operand → push to stack.
+  3. Operator → pop two operands, combine `operand1 + operand2 + operator`, push back.
+
+---
+
+# 3️⃣ Summary
+
+* **All conversions use a stack** to temporarily hold operators or partial expressions.
+* **Operator precedence and associativity** drive the order.
+* **Parentheses** override normal precedence.
+* **Operands** always go to output or stack depending on direction.
+
+---
