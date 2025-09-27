@@ -11,30 +11,28 @@ This is where I solve and track problems from the sheet with clean C++ code, exp
 
 ---
 
-## 🧠 How I'm Solving It
+## 🧠 How I'm Solving It (Latest Progress)
 
-| 🧩 **Category**                               | 🚀 **Progress** | 📌 **Status**               |
-| --------------------------------------------- | --------------- | --------------------------- |
-| **Basics**                                    | 31 / 31         | ✅ Completed                |
-| **Important Sorting Techniques**              | 2 / 7           | ⏳ Just Started              |
-| **Arrays \[Easy → Medium → Hard]**            | 24 / 40         | ⏳ In Progress               |
-| **Binary Search \[1D/2D/Search Space]**       | 16 / 32         | ⏳ In Progress               |
-| **Strings \[Basic & Medium]**                 | 13 / 15         | ✅ Almost Done               |
+| 🧩 **Category**                               | 🚀 **Progress** | 📌 **Status**                |
+| --------------------------------------------- | --------------- | ---------------------------- |
+| **Basics**                                    | 31 / 31         | ✅ Completed                  |
+| **Important Sorting Techniques**              | 6 / 7           | ⏳ Almost Done                |
+| **Arrays \[Easy → Medium → Hard]**            | 31 / 40         | ⏳ In Progress                |
+| **Binary Search \[1D/2D/Search Space]**       | 19 / 32         | ⏳ In Progress                |
+| **Strings \[Basic & Medium]**                 | 14 / 15         | ✅ Almost Done                |
 | **Strings (Extended Practice)**               | 4 / 9           | 🕒 Reserved for Later        |
-| **Linked List \[SLL, DLL, Medium, Hard]**     | 20 / 31         | ⏳ In Progress               |
+| **Linked List \[SLL, DLL, Medium, Hard]**     | 20 / 31         | ⏳ In Progress                |
 | **Recursion \[Patternwise]**                  | 9 / 25          | 🔜 Upcoming Focus            |
-| **Bit Manipulation**                          | 8 / 18          | ⏳ In Progress               |
-| **Stack & Queues**                            | 0 / 30          | 🕒 Planned Soon              |
-| **Sliding Window & Two Pointer**              | 8 / 12          | ✅ Almost Done               |
+| **Bit Manipulation**                          | 8 / 18          | ⏳ In Progress                |
+| **Stack & Queues \[Learning + Monotonic]**    | 10 / 30         | ⏳ Just Started               |
+| **Sliding Window & Two Pointer**              | 8 / 12          | ✅ Almost Done                |
 | **Heaps**                                     | 5 / 17          | 🕒 Scheduled After SW/2Ptr   |
-| **Greedy Algorithms**                         | 10 / 16          | ⏳ In Progress               |
-| **Binary Trees \[Traversals, Problems]**      | 15 / 39         | ⏳ In Progress               |
-| **Binary Search Trees (BST)**                 | 12 / 16         | ✅ Almost Done               |
+| **Greedy Algorithms**                         | 15 / 16         | ✅ Almost Done                |
+| **Binary Trees \[Traversals, Problems]**      | 15 / 39         | ⏳ In Progress                |
+| **Binary Search Trees (BST)**                 | 12 / 16         | ✅ Almost Done                |
 | **Graphs \[Concepts & Problems]**             | 17 / 54         | 🔜 Next Major Topic          |
-| **Dynamic Programming \[Patterns, Problems]** | 26 / 56         | ⏳ In Progress (Big Topic)   |
+| **Dynamic Programming \[Patterns, Problems]** | 44 / 56         | 🚀 Strong Progress (Big One) |
 | **Tries**                                     | 1 / 7           | 🕒 To Be Explored            |
-
-
 
 > I’m solving **10–12 problems per topic** for deep understanding, not just completion.
 
