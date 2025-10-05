@@ -1,36 +1,37 @@
-// Function to push an integer into the stack.
+class ArrayStack {
+    int *arr;
+    int capacity;
+    int topIndex;
 
-/*
-class MyStack
-{
-private:
-    int arr[1000];
-    int top;
 public:
-    MyStack(){top=-1;}
-    int pop();
-    void push(int);
-};
-*/
-
-void MyStack ::push(int x) {
-    // Your Code
-   
-        top++;
-        arr[top]=x;
+    ArrayStack(int size = 1000) { 
+        capacity = size;
+        arr = new int[capacity];
+        topIndex = -1;
+    }
     
-}
-
-
-// Function to remove an item from top of the stack.
-int MyStack ::pop() {
-    // Your Code
-    if(top==-1){
-      return -1;
+    void push(int x) {
+        if (topIndex == capacity - 1) {
+            return;
+        }
+        arr[++topIndex] = x;
     }
-    else{
-        int y = arr[top];
-        top--;
-        return y;
+    
+    int pop() {
+        if (topIndex == -1) {
+            return -1;
+        }
+        return arr[topIndex--];
     }
-}
+    
+    int top() {
+        if (topIndex == -1) {
+            return -1;
+        }
+        return arr[topIndex];
+    }
+    
+    bool isEmpty() {
+        return topIndex == -1;
+    }
+};
