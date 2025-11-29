@@ -91,7 +91,7 @@ int result = num >> 1;  // result = 2
 int count = 0;
 num = 5;
 while (num != 0) {
-    num = num & (num - 1);
+    num = num & (num - 1); // removes last set bit
     count++;
 }
 // 5 → 0000101

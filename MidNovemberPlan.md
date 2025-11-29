@@ -17,8 +17,8 @@ These are 80% done; we finish them quickly.
 📌 STEP 2 — MEDIUM-PROGRESS TOPICS
 📍 Do in Week 4 (Nov 22–30)
 Topic	Current	Target	Expected
-Binary Search	19 / 32	→ 28/32	+9 problems
-Bit Manipulation	9 / 18	→ 14/18	+5 problems
+Binary Search	19 / 32	→ 28/32	+9 problems -> 11P
+Bit Manipulation	9 / 18	→ 14/18	+5 problems -> 17P
 Stack & Queue	20 / 30	→ 26/30	+6 problems
 Recursion	10 / 25	→ 16/25	+6 problems
 🔥 Total: 15–20 problems in 8 days
