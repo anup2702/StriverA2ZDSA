@@ -13,7 +13,7 @@ public:
             adjList[v].push_back({u, w});
         }
 
-        priority_queue<pair<int, int>, vector<pair<int,int>>, greater<pair<int, int>>> pq;
+        priority_queue<pair<int, int>, vector<pair<int,int>>, greater<pair<int, int>>> pq; // min heap
 
         vector<int> dist(V, 1e9);
         dist[src] = 0;
