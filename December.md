@@ -11,18 +11,20 @@ Daily time: **1.5–2 hours**
 
 | Step | Topic            | Progress | Status           |
 | ---- | ---------------- | -------- | ---------------- |
-| 7    | Recursion        | 17 / 25  | 🔥 Core focus    |
-| 8    | Bit Manipulation | 18 / 18  | 🟢 Completed       |
-| 9    | Stack & Queue    | 22 / 30  | 🟡 mid           |
-| 11   | Heaps            | 7 / 17   | 🟡 mid           |
-| 13   | Binary Trees     | 33 / 39  | 🔥 close         |
-| 14   | BST              | 13 / 16  | 🔥 close         |
-| 15   | Graphs           | 28 / 54  | 🔥 major focus   |
-| 16   | DP               | 51 / 56  | 🔥 high priority |
+| 7    | Recursion        | 23 / 25  | 🔥 Core focus    |
+| 9    | Stack & Queue    | 24 / 30  | 🟡 mid           |
+| 15   | Graphs           | 32 / 54  | 🔥 major focus   |
 | 17   | Tries            | 2 / 7    | 🟢 small         |
 | 18   | Strings (Hard)   | 8 / 9    | 🟢 finish fast   |
 
-total - 3+1+7+4+4
+| 13   | Binary Trees     | 39 / 39  | 🟢 Completed        |
+| 14   | BST              | 16 / 16  | 🟢 Completed        |
+| 16   | DP               | 56 / 56  | 🟢 Completed |
+| 19   | Binary Search    | 2 / 2    | 🟢 Completed |
+| 8    | Bit Manipulation | 18 / 18  | 🟢 Completed     |
+| 11   | Heaps            | 17 / 17   | 🟢 Completed    |
+
+
 ---
 
 # 🎯 **December Goal Breakdown**

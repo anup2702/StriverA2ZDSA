@@ -13,7 +13,7 @@ A complete ladder of curated problems to go from beginner to 1400–1600 rating.
 5. [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A)  ✔
 6. [266A - Stones on the Table](https://codeforces.com/problemset/problem/266/A)  ✔
 7. [112A - Petya and Strings](https://codeforces.com/problemset/problem/112/A)  ✔
-8. [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A)  
+8. [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A)  ✔
 9. [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A)  
 10. [935A - Fafa and His Company](https://codeforces.com/problemset/problem/935/A)  
 11. [617A - Elephant](https://codeforces.com/problemset/problem/617/A)  
@@ -59,8 +59,8 @@ A complete ladder of curated problems to go from beginner to 1400–1600 rating.
 11. [731A - Night at the Museum](https://codeforces.com/problemset/problem/731/A)  
 12. [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)  
 13. [519A - A and B and Chess](https://codeforces.com/problemset/problem/519/A)  
-14. [750A - New Year and Hurry](https://codeforces.com/problemset/problem/750/A)  
-15. [520A - Pangram](https://codeforces.com/problemset/problem/520/A)
+14. [750A - New Year and Hurry](https://codeforces.com/problemset/problem/750/A)  ✔
+15. [520A - Pangram](https://codeforces.com/problemset/problem/520/A) ✔
 
 ---
 
