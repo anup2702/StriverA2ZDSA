@@ -1,81 +1,93 @@
- # 📘 Striver A2Z DSA Sheet
+# 📘 Striver A2Z DSA Sheet — Completed
 
-Welcome to my personal repository for the **Striver A2Z DSA Sheet**!  
-This is where I solve and track problems from the sheet with clean C++ code, explanations, and structured folders.
+Welcome to my personal repository for the **Striver A2Z DSA Sheet**.  
+This repository contains my **complete journey** of solving the entire sheet with **clean C++ implementations**, structured folders, and revision-friendly code.
 
----
-
-## 🔗 Sheet Reference
-
-👉 [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+This is not just a problem dump — it reflects **pattern-based learning, consistency, and completion**.
 
 ---
 
-## 🧠 How I'm Solving It (Latest Progress)
+## Sheet Reference
 
-| 🧩 **Category**                               | 🚀 **Progress** | 📌 **Status**                |
-| --------------------------------------------- | --------------- | ---------------------------- |
-| **Basics**                                    | 31 / 31         | ✅ Completed                  |
-| **Important Sorting Techniques**              | 6 / 7           | ✅ Almost Done               |
-| **Arrays \[Easy → Medium → Hard]**            | 31 / 40         | ⏳ In Progress                |
-| **Binary Search \[1D/2D/Search Space]**       | 19 / 32         | ⏳ In Progress                |
-| **Strings \[Basic & Medium & Hard]**          | 20 / 24         | ✅ Almost Done                |
-| **Linked List \[SLL, DLL, Medium, Hard]**     | 30 / 31         | ✅ Almost Done               |
-| **Recursion \[Patternwise]**                  | 9 / 25          | 🔜 Upcoming Focus            |
-| **Bit Manipulation**                          | 9 / 18          | ⏳ In Progress                |
-| **Stack & Queues \[Learning + Monotonic]**    | 20 / 30         | ⏳ In Progress              |
-| **Sliding Window & Two Pointer**              | 9 / 12          | ✅ Almost Done                |
-| **Heaps**                                     | 6 / 17          | 🕒 Scheduled After SW/2Ptr   |
-| **Greedy Algorithms**                         | 16 / 16         | ✅ Completed               |
-| **Binary Trees \[Traversals, Problems]**      | 30 / 39         | ⏳ In Progress                |
-| **Binary Search Trees (BST)**                 | 12 / 16         | ✅ Almost Done                |
-| **Graphs \[Concepts & Problems]**             | 17 / 54         | 🔜 Next Major Topic          |
-| **Dynamic Programming \[Patterns, Problems]** | 44 / 56         | 🚀 Strong Progress (Big One) |
-| **Tries**                                     | 2 / 7           | 🕒 To Be Explored            |
-
-> I’m solving **10–12 problems per topic** for deep understanding, not just completion.
+ [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 ---
 
-## 🧰 Tech Stack
+##  Completion Status (Final)
+
+|  **Category**                               |  **Progress** |  **Status** |
+| --------------------------------------------- | --------------- | ------------- |
+| **Basics**                                    | 31 / 31         | Completed |
+| **Important Sorting Techniques**              | 7 / 7           |  Completed |
+| **Arrays \[Easy → Medium → Hard]**            | 40 / 40         |  Completed |
+| **Binary Search \[1D / 2D / Search Space]**   | 32 / 32         |  Completed |
+| **Strings \[Basic, Medium & Hard]**           | 24 / 24         |  Completed |
+| **Linked List \[SLL, DLL, Medium, Hard]**     | 31 / 31         |  Completed |
+| **Recursion \[Patternwise]**                  | 25 / 25         |  Completed |
+| **Bit Manipulation**                          | 18 / 18         |  Completed |
+| **Stack & Queues \[Including Monotonic]**    | 30 / 30         |  Completed |
+| **Sliding Window & Two Pointer**              | 12 / 12         |  Completed |
+| **Heaps**                                     | 17 / 17         |  Completed |
+| **Greedy Algorithms**                         | 16 / 16         |  Completed |
+| **Binary Trees \[Traversals + Problems]**     | 39 / 39         |  Completed |
+| **Binary Search Trees (BST)**                 | 16 / 16         |  Completed |
+| **Graphs \[Concepts & Problems]**             | 54 / 54         |  Completed |
+| **Dynamic Programming \[Patterns & Problems]**| 56 / 56         |  Completed |
+| **Tries**                                     | 7 / 7           |  Completed |
+
+>  **Entire Striver A2Z DSA Sheet completed end-to-end.**
+
+---
+
+##  How I Approached the Sheet
+
+- Focused on **patterns, not brute completion**
+- Solved **10–12 problems per topic** deeply
+- Emphasized:
+  - Recursion → Graphs → DP flow
+  - Search space thinking in Binary Search
+  - Clean DFS/BFS mental models
+- Revisited weak areas instead of skipping them
+
+This repo is now mainly used for **revision and interview prep**.
+
+---
+
+##  Tech Stack
 
 - **Language**: C++
 - **IDE**: VS Code
-- **Version Control**: Git
-- **Platform**: GitHub
+- **Version Control**: Git & GitHub
 
 ---
 
-## 🔄 How to Contribute
+##  Usage & Contribution
 
-This repo is mostly for personal learning, but:
+This repository is primarily for personal learning and revision, but:
 
-- ⭐ Feel free to star the repo if you're on the same journey  
-- 🛠️ Open issues or suggestions to improve structure or logic
-
----
-
-## 📈 My Goals
-
-- 📚 Master DSA with Deep understandings  
-- 🔁 Revise with spaced repetition  
-- 🧪 Improve problem-solving patterns and thinking  
+-  Feel free to star it if you’re on the same journey
+-  Suggestions to improve structure/readability are welcome
 
 ---
 
-## 📌 Notes
+##  What’s Next
 
-- All problems are referenced from the original [Striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2).  
-- This is an **ongoing project** — new problems are added weekly.  
-- Code is written with clean structure and comments for revision.
+-  Structured revision & spaced repetition
+-  Mixed-topic problem solving
+-  Timed practice & contests
+-  Interview-focused refinement
 
----
-
-## 📩 Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anup2702/)
-- 🐦 [Twitter/X](https://twitter.com/anup2702) *(DSA logs & tips)*
+No new syllabus — only **sharpening**.
 
 ---
 
-> Thanks for visiting! If this repo helps you too, leave a ⭐ and let’s crack DSA together 💪
+##  Connect
+
+-  [LinkedIn](https://www.linkedin.com/in/anup2702/)
+-  [Twitter/X](https://twitter.com/anup2702) *(DSA logs & learnings)*
+
+---
+
+> From starting basics to completing Graphs & DP —  
+> **Consistency > Motivation.**  
+> Thanks for visiting, and all the best on your DSA journey 
